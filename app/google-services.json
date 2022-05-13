@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044969892790",
+    "project_id": "heartbeatmonitoring-f52ba",
+    "storage_bucket": "heartbeatmonitoring-f52ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044969892790:android:35c555ce0760f81628af17",
+        "android_client_info": {
+          "package_name": "com.rcoemen.heartbeatmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044969892790-sb291jejjobaio70arooqehg62lo7uc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsnR3Ic10Rdwkb6JeDqaD7275Aze6B44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044969892790-sb291jejjobaio70arooqehg62lo7uc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
